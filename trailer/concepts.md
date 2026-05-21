@@ -194,13 +194,19 @@ That trailer could genuinely go HARD.
 SAMPLE IMAGE PROMPTS
 Luma Vale Prompt
 A breathtaking solarpunk fantasy village hidden in a lush forest valley, glowing spirit lanterns, waterfalls, ancient resonance stones, young people accompanied by elemental spirit creatures, warm sunset lighting, emotional cinematic atmosphere, Studio Ghibli meets Horizon Zero Dawn, highly detailed fantasy concept art
+
 Spirit Companion Prompt
 A tiny mystical spirit creature made of soft glowing energy and natural elements, emotionally expressive eyes, floating gently beside a lonely young fantasy traveler, beautiful magical realism, ecological fantasy aesthetic, cinematic lighting, emotionally warm
+
 Mythic Storm Creature Prompt
 A colossal mythic storm spirit soaring through thunderclouds above mountains, made of lightning, clouds, feathers, and living wind energy, terrifying and beautiful, ecological fantasy, cinematic scale, dramatic weather, highly detailed
+
 Airship Prompt
 A handcrafted solarpunk fantasy airship flying through storm clouds above a massive living continent, glowing resonance engine, hanging lanterns, ecological technology, emotional atmosphere, cinematic fantasy art
+
 Corruption Prompt
 A once-beautiful magical forest slowly collapsing from spiritual corruption, dead rivers, distorted glowing roots, frightened spirit creatures hiding in silence, emotional ecological fantasy, cinematic dark atmosphere
+
 Fusion Prompt
-A young fantasy traveler partially fused with an elemental spirit creature, glowing reso
+A young fantasy traveler partially fused with an elemental spirit creature, glowing resonance markings, nature energy exploding outward, reality cracking around them, cinematic fantasy transformation, emotional and terrifying
+
